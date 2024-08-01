@@ -21,8 +21,8 @@ Clone o repositório:
 
 sh
 Copiar código
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/Wiliamoliveira1/G-code-Generator-for-Helix.git
+cd G-code-Generator-for-Helix
 Execute o programa:
 
 sh
@@ -50,7 +50,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 Licença
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-
+    
 import math
 import tkinter as tk
 from tkinter import scrolledtext
